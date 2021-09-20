@@ -1,0 +1,9 @@
+So = Ce (A B + A' B') + Ce'( A' B  + A B')
+         _______
+So = Ce ( A ☺ B ) + Ce' ( A ☻ B ) 
+
+So = Ce ☺ A ☺ B
+
+Cs = A B  + A Ce + B Ce
+
+NOTA: ☺ = XOR 
